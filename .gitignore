@@ -1,5 +1,5 @@
-.ipynb_checkpoints/
 .ipynb_checkpoints/*
 .DS_Store
 # don't share anything from raw data as it may contain private info
 /data/raw/*
+.ipynb_checkpoints
