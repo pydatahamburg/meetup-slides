@@ -1,7 +1,7 @@
 ## Poking holes in your deep learning vision model ##
 ### Irina Vidal Migallón ###
 
-![Irina Vidal Migallón](https://github.com/pydatahamburg/meetup-slides/blob/master/2019.5/speaker_profiles/irina_vidal_migallon.png | width=300)
+![Irina Vidal Migallón](https://github.com/pydatahamburg/meetup-slides/blob/master/2019.5/speaker_profiles/irina_vidal_migallon.png|width=300)
 
 **Abstract**
 For several years now, industrial Computer Vision systems have been powered by Deep Learning - also in production. If we should poke our code until it breaks, why would deep learning models gets a free pass? We'll see different ways in which to poke, improve and -above all- robustify a vision model before letting it run in production.
